@@ -9,6 +9,8 @@ function add(num1: number, num2: number): number {
 
 add(2, 3);
 
+
+
 // Arrow Function
 
 const sum = (num1: number, num2: number): number => num1 + num2;

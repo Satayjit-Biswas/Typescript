@@ -21,3 +21,10 @@ let liststring = ["a", "b", "c"];
 let listUnion = [2, "a", "b", "c", true];
 // Array of tuple type
 let listtuple = [2, "a"];
+// Object type
+let listObject = {
+    group: "A",
+    name: "Satyajit",
+    age: 23,
+    // ismarried: true,
+};
