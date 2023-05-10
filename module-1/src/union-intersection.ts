@@ -40,3 +40,5 @@ const NextDeveloper: NextLevelDeveloper = {
     leaderShip: 1,
     level: "mid",
 };
+
+console.log(NextDeveloper);
